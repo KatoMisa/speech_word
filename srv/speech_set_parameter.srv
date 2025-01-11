@@ -1,0 +1,5 @@
+string  component_ref
+string speech_text
+---
+string Returncode_t
+string  command_id

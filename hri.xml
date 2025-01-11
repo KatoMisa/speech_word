@@ -1,0 +1,5 @@
+<rois:HRIEngineProfile xmlns:rois="http://example.com/r/rois/" xmlns:gml="http://example.com/r/gml">
+    <gml:identifier>urn:x-rois:def:HRIEngine:speech_word</gml:identifier>
+    <gml:filename>Mainengine</gml:filename>
+    <rois:HRIComponent>rois:HRIComponent:Speech_Synthesis</rois:HRIComponent>
+ </rois:HRIEngineProfile>
